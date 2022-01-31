@@ -8,6 +8,7 @@ Parameters can be set to change different parameters of the sequence.
 ## Hardware and PCB
 <img src="images/005_side.jpg" width="25%" height="25%">
 
+you should probably make the led resistors (the 330 ohm ones) something higher like 1k, the leds on mine are very bright
 
 
 
