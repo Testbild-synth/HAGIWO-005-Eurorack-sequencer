@@ -11,4 +11,8 @@ Parameters can be set to change different parameters of the sequence.
 you should probably make the led resistors (the 330 ohm ones) something higher like 1k, the leds on mine are very bright
 
 
+# TODO:
+- upload code
+- code cleanup
+- upload panel gerber
 
