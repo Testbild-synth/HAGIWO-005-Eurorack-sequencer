@@ -12,7 +12,5 @@ you should probably make the led resistors (the 330 ohm ones) something higher l
 
 
 # TODO:
-- upload code
-- code cleanup
-- upload panel gerber
+- code cleanup (it works but could be prettier)
 
