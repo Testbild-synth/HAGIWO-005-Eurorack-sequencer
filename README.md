@@ -1,4 +1,4 @@
-# HAGIWO 005 Eurorack Sequencer PCB and Code
+# HAGIWO 005 Eurorack Generative Sequencer Module
 <img src="images/005_front.jpg" width="25%" height="25%">
 
 Through hole PCB version of the [HAGIWO 005 Generative Sequencer](https://www.youtube.com/watch?v=S4yxVxi9Iak) Eurorack module.
@@ -14,6 +14,9 @@ I have uploaded the panel kicad and inkscape files if you want to change fonts e
 
 you should probably make the led resistors (the 330 ohm ones) something higher like 1k, the leds on mine are very bright
 
+As with some of my other modules, this pcb has a selector which allows you to choose if it runs off the 12V or 5V power bus (as some people want 5V but others don't have it in their racks). simply solder the bridge from V_sel to either side or put in a jumper to choose.    
+
+<img src="images/v_sel.jpeg" width="40%" height="40%">
 
 # TODO:
 - code cleanup (it works but could be prettier)
